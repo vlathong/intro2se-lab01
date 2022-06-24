@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Logo from "../assets/logo.webp";
 import { Link } from "react-router-dom";
-import DensitySmallIcon from '@mui/icons-material/DensitySmall';
+//import DensitySmallIcon from '@mui/icons-material/DensitySmall';
 import "../styles/Navbar.css";
 
 function Navbar() {
