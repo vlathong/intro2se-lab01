@@ -9,31 +9,31 @@ export const MenuList = [
   {
     name: "The Spectre",
     image: Pepperoni,
-    price: 15.99,
+    author: "Alan Walker",
   },
   {
     name: "Despacito",
     image: Margherita,
-    price: 11.99,
+    author: "Luis Fonsi",
   },
   {
     name: "See you again",
     image: PedroTechSpecial,
-    price: 256.53,
+    author: "Wiz Khalifa",
   },
   {
     name: "Gangnam Style",
     image: Vegan,
-    price: 17.99,
+    author: "Psy",
   },
   {
     name: "Agent P",
     image: Pineapple,
-    price: 4.99,
+    author: "Randy Crenshaw",
   },
   {
     name: "Chúng ta của hiện tại",
     image: Expensive,
-    price: 1997.99,
+    author: "Sơn Tùng MTP",
   },
 ];
