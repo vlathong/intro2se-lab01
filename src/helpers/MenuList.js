@@ -1,39 +1,39 @@
-import Pepperoni from "../assets/pepperoni.jpg";
-import Margherita from "../assets/margherita.jpg";
-import PedroTechSpecial from "../assets/pedrotechspecial.jpg";
-import Vegan from "../assets/vegan.jpg";
-import Pineapple from "../assets/pineapple.jpg";
-import Expensive from "../assets/expensive.jpg";
+import TheSpectre from "../assets/the_spectre.jpg";
+import Despacito from "../assets/despacito.jpg";
+import SeeYouAgain from "../assets/SeeYouAgain.jpg";
+import GangnamStyle from "../assets/GangnamStyle.jpg";
+import AgentP from "../assets/AgentP.jpg";
+import ChungTaCuaHienTai from "../assets/ChungTaCuaHienTai.jpg";
 
 export const MenuList = [
   {
     name: "The Spectre",
-    image: Pepperoni,
+    image: TheSpectre,
     author: "Alan Walker",
   },
   {
     name: "Despacito",
-    image: Margherita,
+    image: Despacito,
     author: "Luis Fonsi",
   },
   {
     name: "See you again",
-    image: PedroTechSpecial,
+    image: SeeYouAgain,
     author: "Wiz Khalifa",
   },
   {
     name: "Gangnam Style",
-    image: Vegan,
+    image: GangnamStyle,
     author: "Psy",
   },
   {
     name: "Agent P",
-    image: Pineapple,
+    image: AgentP,
     author: "Randy Crenshaw",
   },
   {
     name: "Chúng ta của hiện tại",
-    image: Expensive,
+    image: ChungTaCuaHienTai,
     author: "Sơn Tùng MTP",
   },
 ];
